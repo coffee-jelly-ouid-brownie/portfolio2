@@ -1,0 +1,36 @@
+
+.hero--layout {
+    height: calc(100vh - 124px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.hero--header {
+    color: #4D455D;
+    text-align: center;
+    font-size: 4em;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.hero--button {
+    
+    color: #7DB9B6 !important;
+    font-weight: bold !important;
+    font-size: 1.2em;
+    background-color: #4D455D !important; 
+}
+
+.hero--box {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero--description {
+    width: 50%;
+    font-size: 1.2em;
+}
